@@ -1,0 +1,152 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	body {
+		margin:O%;
+		background-color:#b4d2ae;
+	}
+	
+	#titre {
+		background-image:url(titre.png);
+		width:660px;
+		height:85px;
+		margin-left:10%;
+		margin-top:2%;
+		margin-bottom:6%;	
+		}
+	
+	#tobi {
+		width:180px;
+		height:400px;
+		background-image:url(tobi.png);
+		margin-left:30%;
+		float:left;
+
+	}
+	
+	#softbox {
+		width:300px;
+		height:150px;
+		background:white;
+		border-radius:20px;
+		border-style:solid;
+		border-color:#0C0;
+		margin-left:55%;
+		float:auto;
+		margin-top:100px;
+	}
+	
+	#bonbon {
+		width:75px;
+		height:25px;
+		background-image:url(bonbon.png);
+	}
+	
+	#cadeau {
+		width:75px;
+		height:25px;
+		background-image:url(cadeau.png);
+	}
+	
+	#noeud {
+		width:75px;
+		height:25px;
+		background-image:url(noeud.png);
+	}
+	
+	#chocolat {
+		width:75px;
+		height:25px;
+		background-image:url(chocolat.png);
+	}
+	
+	#bisous {
+		width:75px;
+		height:25px;
+		background-image:url(bisous.png);
+	}
+	
+	#love {
+		width:75px;
+		height:25px;
+		background-image:url(love.png);
+	}
+	
+	#calin {
+		width:75px;
+		height:25px;
+		background-image:url(calin.png);
+	}
+	
+	#hardbox {
+		width:300px;
+		height:150px;
+		background:white;
+		border-radius:20px;
+		border-style:solid;
+		border-color:red;
+		margin-left:55%;
+		float:auto;
+		margin-top:10px;
+
+	}
+	
+	h5 {
+		font-family:"Comic Sans MS", cursive;
+		color:black;
+		text-align:center;
+		margin-top:3%;
+	}
+	
+	#cake {
+		width:75px;
+		height:25px;
+		background-image:url(cake.png);
+	}
+	
+	#hache {
+		width:75px;
+		height:25px;
+		background-image:url(hache.png);
+	}
+	
+	#oeuf {
+		width:75px;
+		height:25px;
+		background-image:url(oeuf.png);
+	}
+	
+	#ciseaux {
+		width:75px;
+		height:25px;
+		background-image:url(ciseaux.png);
+	}
+	
+	#claque {
+		width:75px;
+		height:25px;
+		background-image:url(claque.png);
+	}
+	
+	#poing {
+		width:75px;
+		height:25px;
+		background-image:url(poing.png);
+	}
+	
+	#pied {
+		width:75px;
+		height:25px;
+		background-image:url(pied.png);
+	}
+	
+	ul {
+		list-style-type:none;
+		cursor:pointer;
+	}
+	
+	li {
+		float:left;
+		padding:O%;
+
+	}
